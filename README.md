@@ -43,7 +43,7 @@ import '@uniswap/v3-periphery/contracts/interfaces/ISwapRouter.sol';
 
 contract MyContract {
   ISwapRouter router;
-
+complete
   function doSomethingWithSwapRouter() {
     // router.exactInput(...);
   }
